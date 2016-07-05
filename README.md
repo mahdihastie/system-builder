@@ -10,6 +10,6 @@
 # Install
 
 ```bash
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/mahdihastie/system-builder)" && source
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/mahdihastie/system-builder/install.sh)" && source
 ~/.zshrc
 ```
