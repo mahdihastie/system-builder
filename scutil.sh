@@ -1,11 +1,58 @@
-#!/bin/bash
-# Ask the user for login details
-read -p 'Computer Name: ' uservar
-read -sp 'Password: ' passvar
-echo
-sudo su - $passvar
-scutil --set LocalHostName $uservar
-scutil --set HostName $uservar
-scutil --set ComputerName $uservar
+#!/usr/bin/env bash
 
-echo 'name set to' $uservar
+# ~/.osx — https://mths.be/osx
+
+
+info () {
+  printf "  [ \033[00;34m..\033[0m ] $1"
+}
+
+user () {
+  printf "\r  [ \033[0;33m?\033[0m ] $1 "
+}
+
+success () {
+  printf "\r\033[2K  [ \033[00;32mOK\033[0m ] $1\n"
+}
+
+fail () {
+  printf "\r\033[2K  [\033[0;31mFAIL\033[0m] $1\n"
+  echo ''
+  exit
+}
+
+link_file () {
+  ln -s $1 $2
+  success "linked $2 to $1"
+}
+
+remove_file () {
+  rm -rf $1
+  success "removed $1"
+}
+
+move_file () {
+  mv $1 $2
+  success "moved $1 to $2"
+}
+Status API Training Shop Blog About
+
+
+user "please enter the username"
+read -n 1 IQ_USERNAME
+
+user "please enter the machine name"
+read -n 1 IQ_HOSTNAME
+
+# Ask for the administrator password upfront
+sudo -v
+
+# Keep-alive: update existing `sudo` time stamp until `.osx` has finished
+while true; do sudo -n true; sleep 60; kill -0 "$$" || exit; done 2>/dev/null &
+
+echo
+sudo scutil --set LocalHostName $IQ_HOSTNAME
+sudo scutil --set HostName $IQ_HOSTNAME
+sudo scutil --set ComputerName $IQ_HOSTNAME
+
+echo 'name set to' $IQ_HOSTNAME
