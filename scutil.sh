@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 
-user "please enter the username"
-read -n 1 IQ_USERNAME
-
 user "please enter the machine name"
 read -n 1 IQ_HOSTNAME
 
