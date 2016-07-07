@@ -10,6 +10,6 @@
 # Install
 
 ```bash
-IQ_USERNAME="" && IQ_HOSTNAME="" && bash -c "$(curl -fsSL https://raw.githubusercontent.com/mahdihastie/system-builder/install.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/mahdihastie/system-builder/master/install.sh)"
 ~/.zshrc
 ```
