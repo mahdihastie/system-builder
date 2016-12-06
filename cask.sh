@@ -17,6 +17,8 @@ brew cask install dukto
 brew cask install evernote
 brew cask install easyfind
 brew cask install firefox
+brew cask install github-desktop
+brew cask install grammarly
 brew cask install go2shell
 brew cask install google-chrome
 brew cask install google-drive
