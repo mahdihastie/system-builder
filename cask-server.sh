@@ -10,3 +10,4 @@ brew cask install easyfind
 brew cask install hosts
 brew cask install kodi
 brew cask install teamviewer
+brew cask install fliqlo

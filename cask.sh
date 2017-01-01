@@ -42,3 +42,4 @@ brew cask install textwrangler
 brew cask install vlc
 brew cask install utorrent
 brew cask install teamviewer
+brew cask install fliqlo

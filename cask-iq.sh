@@ -25,3 +25,4 @@ brew cask install screenhero
 brew cask install textwrangler
 brew cask install vlc
 brew cask install teamviewer
+brew cask install fliqlo
