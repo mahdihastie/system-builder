@@ -8,6 +8,7 @@ brew cask install android-file-transfer
 brew cask install atom
 brew cask install bartender
 brew cask install batchmod
+brew cask install beoplay-software-update
 brew cask install calibre
 brew cask install coconutbattery
 brew cask install cyberduck
@@ -30,10 +31,11 @@ brew cask install ip-in-menu-bar
 brew cask install install-disk-creator
 brew cask install iterm2
 brew cask install istat-menus
-brew cask install numi
+brew cask install logitech-unifying
 brew cask install mactracker
 brew cask install middleclick
 brew cask install nordvpn
+brew cask install numi
 brew cask install oversight
 brew cask install radio-silence
 brew cask install sdformatter
