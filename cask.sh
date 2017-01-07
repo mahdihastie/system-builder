@@ -16,6 +16,8 @@ brew cask install dropbox
 brew cask install dukto
 brew cask install evernote
 brew cask install easyfind
+brew cask install etcher
+brew cask install fliqlo
 brew cask install firefox
 brew cask install github-desktop
 brew cask install grammarly
@@ -25,6 +27,7 @@ brew cask install google-drive
 brew cask install hosts
 brew cask install ifunbox
 brew cask install ip-in-menu-bar
+brew cask install install-disk-creator
 brew cask install iterm2
 brew cask install istat-menus
 brew cask install numi
@@ -34,13 +37,13 @@ brew cask install nordvpn
 brew cask install oversight
 brew cask install radio-silence
 brew cask install sdformatter
+brew cask install senuti
 brew cask install slack
 brew cask install screenhero
 brew cask install spotify
 brew cask install soundflower
+brew cask install teamviewer
 brew cask install textwrangler
 brew cask install vlc
 brew cask install utorrent
-brew cask install teamviewer
-brew cask install fliqlo
-brew cask install etcher
+brew cask install yacreader

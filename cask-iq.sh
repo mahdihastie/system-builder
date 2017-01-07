@@ -12,6 +12,7 @@ brew cask install coconutbattery
 brew cask install cyberduck
 brew cask install daisydisk
 brew cask install easyfind
+brew cask install fliqlo
 brew cask install firefox
 brew cask install google-chrome
 brew cask install google-drive
@@ -23,6 +24,5 @@ brew cask install skype
 brew cask install slack
 brew cask install screenhero
 brew cask install textwrangler
-brew cask install vlc
 brew cask install teamviewer
-brew cask install fliqlo
+brew cask install vlc
