@@ -5,6 +5,7 @@ brew tap caskroom/versions
 
 brew cask install 1password
 brew cask install android-file-transfer
+brew cask install aerial
 brew cask install atom
 brew cask install bartender
 brew cask install batchmod
