@@ -37,11 +37,13 @@ brew cask install mactracker
 brew cask install middleclick
 brew cask install nordvpn
 brew cask install numi
+brew cask install osmc
 brew cask install oversight
 brew cask install radio-silence
 brew cask install sdformatter
 brew cask install senuti
 brew cask install slack
+brew cask install shimo
 brew cask install screenhero
 brew cask install spotify
 brew cask install soundflower
