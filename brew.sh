@@ -30,25 +30,21 @@ brew upgrade
 brew tap homebrew/versions
 
 brew install bash
-brew install bash-completion2
-brew install grc
-brew install gpg
+brew install bash-completion
 brew install keybase
 brew install wget --enable-iri
-brew install vim --override-system-vi
 brew install gh
 brew install hub
 # mtr - ping & traceroute. best.
 brew install mtr
-brew install ack
-brew install git
-brew install git-extras
+brew install rmtrash
 brew install tree
-brew install ssh-copy-id
 brew install zsh
-brew install heroku-toolbelt
-brew install trash
+brew install zplug
+brew install zsh-autosuggestions
+brew install gcc --without-multilib
 brew install fontconfig
+brew install tmate
 
 brew install findutils --default-names
 brew install gnu-sed --default-names
@@ -61,14 +57,9 @@ brew install moreutils
 brew install binutils
 brew install diffutils
 brew install gzip
-brew install watch
 brew install tmux
 brew install nmap
 brew install htop
-brew install selenium-server-standalone
-brew install chromedriver
-brew install jmeter
-brew install mackup
 
 # Remove outdated versions from the cellar
 brew cleanup

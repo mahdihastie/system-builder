@@ -9,6 +9,7 @@ brew cask install aerial
 brew cask install atom
 brew cask install bartender
 brew cask install batchmod
+brew cask install brackets
 brew cask install beoplay-software-update
 brew cask install calibre
 brew cask install coconutbattery
@@ -48,8 +49,7 @@ brew cask install screenhero
 brew cask install spotify
 brew cask install soundflower
 brew cask install teamviewer
-brew cask install textwrangler
-brew install tmate
+# brew cask install textwrangler
 brew cask install vlc
 brew cask install utorrent
 brew cask install yacreader
