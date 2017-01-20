@@ -23,7 +23,6 @@ brew cask install iterm2
 brew cask install skype
 brew cask install slack
 brew cask install screenhero
-brew install tmate
 brew cask install textwrangler
 brew cask install teamviewer
 brew cask install vlc
