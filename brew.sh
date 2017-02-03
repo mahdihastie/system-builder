@@ -60,6 +60,8 @@ brew install gzip
 brew install tmux
 brew install nmap
 brew install htop
+brew install mas
+
 
 # Remove outdated versions from the cellar
 brew cleanup
