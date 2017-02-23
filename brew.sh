@@ -42,7 +42,7 @@ brew install tree
 brew install zsh
 brew install zplug
 brew install zsh-autosuggestions
-brew install gcc --without-multilib
+brew install gcc
 brew install fontconfig
 brew install tmate
 
