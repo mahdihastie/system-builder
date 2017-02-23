@@ -9,9 +9,11 @@ brew cask install aerial
 brew cask install atom
 brew cask install bartender
 brew cask install batchmod
+brew cask install betterzip
 brew cask install brackets
 brew cask install beoplay-software-update
 brew cask install calibre
+brew cask install carbon-copy-cloner
 brew cask install coconutbattery
 brew cask install cyberduck
 brew cask install daisydisk
