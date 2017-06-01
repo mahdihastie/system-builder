@@ -46,9 +46,7 @@ brew cask install radio-silence
 brew cask install renamer
 brew cask install sdformatter
 brew cask install senuti
-brew cask install slack
 brew cask install shimo
-brew cask install screenhero
 brew cask install spotify
 brew cask install soundflower
 brew cask install teamviewer
