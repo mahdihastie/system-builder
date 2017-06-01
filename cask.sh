@@ -29,7 +29,7 @@ brew cask install grammarly
 brew cask install go2shell
 brew cask install google-chrome
 brew cask install google-drive
-brew cask install hosts
+brew cask install hosts -allowUntrusted
 brew cask install ifunbox
 brew cask install ip-in-menu-bar
 brew cask install install-disk-creator
