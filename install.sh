@@ -1,8 +1,7 @@
 xcode-select --install
-cd ~
-mkdir system-build
-cd system-build
-git clone https://github.com/mahdihastie/system-builder
+
+chmod +x sudogate.sh
+./sudogate.sh
 chmod +x brew.sh
 ./brew.sh
 chmod +x cask.sh
