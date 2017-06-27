@@ -15,14 +15,12 @@ brew cask install easyfind
 brew cask install fliqlo
 brew cask install firefox
 brew cask install google-chrome
-brew cask install google-drive
 brew cask install hosts
 brew cask install lastpass
 brew cask install ip-in-menu-bar
 brew cask install iterm2
-brew cask install skype
 brew cask install slack
 brew cask install screenhero
+brew cask install avast-mac-security
 brew cask install textwrangler
-brew cask install teamviewer
 brew cask install vlc
