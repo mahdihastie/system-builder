@@ -41,7 +41,6 @@ brew cask install middleclick
 brew cask install nordvpn
 brew cask install numi
 brew cask install osmc
-brew cask install oversight
 brew cask install radio-silence
 brew cask install renamer
 brew cask install sdformatter
