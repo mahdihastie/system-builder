@@ -51,7 +51,8 @@ brew cask install shimo
 brew cask install spotify
 brew cask install soundflower
 brew cask install teamviewer
-brew cask install textwrangler
 brew cask install vlc
 brew cask install utorrent
 brew cask install yacreader
+brew cask install bbedit
+brew cask install tunnelblick

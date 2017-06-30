@@ -22,5 +22,5 @@ brew cask install iterm2
 brew cask install slack
 brew cask install screenhero
 brew cask install avast-mac-security
-brew cask install textwrangler
 brew cask install vlc
+brew cask install tunnelblick
