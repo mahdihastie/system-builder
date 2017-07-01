@@ -55,4 +55,5 @@ brew cask install vlc
 brew cask install utorrent
 brew cask install yacreader
 brew cask install bbedit
+brew cask install whatsapp
 brew cask install tunnelblick
