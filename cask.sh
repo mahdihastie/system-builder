@@ -4,7 +4,6 @@
 brew tap caskroom/versions
 
 brew cask install 1password
-brew cask install android-file-transfer
 brew cask install aerial
 brew cask install atom
 brew cask install bartender
@@ -32,6 +31,7 @@ brew cask install google-drive
 brew cask install hosts -allowUntrusted
 brew cask install ifunbox
 brew cask install ip-in-menu-bar
+brew cask install impactor
 brew cask install install-disk-creator
 brew cask install iterm2
 brew cask install istat-menus

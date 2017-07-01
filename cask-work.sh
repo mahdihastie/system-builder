@@ -11,6 +11,7 @@ brew cask install chrome-remote-desktop-host
 brew cask install coconutbattery
 brew cask install cyberduck
 brew cask install daisydisk
+brew cask install dukto
 brew cask install easyfind
 brew cask install fliqlo
 brew cask install firefox
