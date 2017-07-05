@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-xcode-select --install
 
 # Confirm if a command exists
 function command_exists () {
