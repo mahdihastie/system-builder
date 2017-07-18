@@ -31,9 +31,9 @@ brew tap homebrew/versions
 
 brew install bash
 brew install bash-completion
-brew install keybase
+# brew install keybase
 brew install wget --enable-iri
-brew install gh
+# brew install gh
 brew install hub
 # mtr - ping & traceroute. best.
 # brew install mtr
@@ -46,7 +46,7 @@ brew install hub
 # brew install fontconfig
 # brew install tmate
 
-brew install findutils --default-names
+# brew install findutils --default-names
 # brew install gnu-sed --default-names
 # brew install gnu-tar --default-names
 # brew install gnu-which --default-names

@@ -25,3 +25,4 @@ brew cask install screenhero
 brew cask install avast-mac-security
 brew cask install vlc
 brew cask install tunnelblick
+brew cask install teamviewer-quicksupport
