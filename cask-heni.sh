@@ -7,7 +7,6 @@ brew cask install atom
 brew cask install batchmod
 brew cask install keepingyouawake
 brew cask install cheatsheet
-brew cask install chrome-remote-desktop-host
 brew cask install coconutbattery
 brew cask install cyberduck
 brew cask install daisydisk
@@ -24,7 +23,5 @@ brew cask install screenhero
 brew cask install avast-mac-security
 brew cask install vlc
 brew cask install teamviewer-quicksupport
-brew cask install 1password
 brew cask install adapter
 brew cask install onedrive
-brew cask install graphicconverter
