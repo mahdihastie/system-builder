@@ -32,7 +32,7 @@ brew tap homebrew/versions
 brew install bash
 brew install bash-completion
 # brew install keybase
-brew install wget --enable-iri
+# brew install wget --enable-iri
 # brew install gh
 brew install hub
 # mtr - ping & traceroute. best.
