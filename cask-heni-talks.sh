@@ -19,6 +19,7 @@ brew cask install hosts
 brew cask install ip-in-menu-bar
 brew cask install iterm2
 brew cask install slack
+brew cask install adobe-creative-cloud
 brew cask install vlc
 brew cask install teamviewer-quicksupport
 brew cask install adapter

@@ -18,7 +18,6 @@ brew cask install google-chrome
 brew cask install hosts
 brew cask install ip-in-menu-bar
 brew cask install iterm2
-brew cask install avast-security
 brew cask install vlc
 brew cask install teamviewer-quicksupport
 brew cask install adapter
