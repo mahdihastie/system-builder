@@ -18,9 +18,14 @@ brew cask install google-chrome
 brew cask install hosts
 brew cask install ip-in-menu-bar
 brew cask install iterm2
+brew cask install slack
 brew cask install vlc
 brew cask install teamviewer-quicksupport
 brew cask install adapter
 brew cask install onedrive
-brew cask install graphicconverter
+brew cask install 1password
+brew cask install docker
+brew cask install github
 brew cask install i1profiler
+brew cask install virtualbox
+brew cask install virtualbox-extension-pack
