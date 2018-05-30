@@ -15,7 +15,6 @@ brew cask install easyfind
 brew cask install fliqlo
 brew cask install firefox
 brew cask install google-chrome
-brew cask install hosts
 brew cask install ip-in-menu-bar
 brew cask install iterm2
 brew cask install vlc
