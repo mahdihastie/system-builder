@@ -23,3 +23,5 @@ brew cask install adapter
 brew cask install onedrive
 brew cask install graphicconverter
 brew cask install i1profiler
+brew cask install microsoft-office
+brew cask install microsoft-remote-desktop-beta
