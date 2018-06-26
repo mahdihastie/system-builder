@@ -3,7 +3,7 @@
 # Install native apps
 brew tap caskroom/versions
 
-brew cask install atom
+# brew cask install atom
 brew cask install batchmod
 brew cask install keepingyouawake
 brew cask install cheatsheet
