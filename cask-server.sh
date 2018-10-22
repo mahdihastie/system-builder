@@ -21,3 +21,5 @@ brew cask install renamer
 brew cask install sdformatter
 brew cask install dukto
 brew cask install iterm2
+brew cask install dropbox
+brew cask install teamviewer-hosts
