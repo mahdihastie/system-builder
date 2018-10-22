@@ -18,7 +18,6 @@ brew cask install cyberduck
 brew cask install daisydisk
 brew cask install dropbox
 brew cask install dukto
-brew cask install evernote
 brew cask install easyfind
 brew cask install etcher
 brew cask install fliqlo
@@ -55,6 +54,5 @@ brew cask install teamviewer
 brew cask install vlc
 brew cask install utorrent
 brew cask install yacreader
-brew cask install bbedit
 brew cask install whatsapp
-brew cask install tunnelblick
+brew cask install freefilesync

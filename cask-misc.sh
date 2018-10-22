@@ -14,3 +14,4 @@ brew cask install google-chrome
 brew cask install vlc
 brew cask install adapter
 brew cask install microsoft-office
+brew cask install freefilesync
