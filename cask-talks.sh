@@ -25,4 +25,3 @@ brew cask install adapter
 brew cask install onedrive
 brew cask install microsoft-office
 brew cask install microsoft-remote-desktop-beta
-brew cask install freefilesync
