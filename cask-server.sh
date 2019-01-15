@@ -9,7 +9,7 @@ brew cask install dukto
 brew cask install easyfind
 brew cask install teamviewer-quicksupport
 brew cask install onedrive
-brew cask install microsoft-office
+# brew cask install microsoft-office
 brew cask install microsoft-remote-desktop-beta
 brew cask install freefilesync
 brew cask install keepingyouawake
