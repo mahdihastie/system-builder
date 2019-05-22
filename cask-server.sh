@@ -13,12 +13,12 @@ brew cask install onedrive
 brew cask install microsoft-remote-desktop-beta
 brew cask install freefilesync
 brew cask install keepingyouawake
-brew cask install firefox
+# brew cask install firefox
 brew cask install google-chrome
 brew cask install ip-in-menu-bar
 brew cask install radio-silence
-brew cask install renamer
-brew cask install sdformatter
+# brew cask install renamer
+# brew cask install sdformatter
 brew cask install dukto
 brew cask install iterm2
 brew cask install dropbox
