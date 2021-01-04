@@ -11,6 +11,5 @@ brew cask install spotify
 brew cask install vlc
 brew cask install microsoft-teams
 brew cask install visual-studio-code
-brew cask install
-brew cask microsoft-office
-brew cask zoom
+brew cask install microsoft-office
+brew cask install zoom
