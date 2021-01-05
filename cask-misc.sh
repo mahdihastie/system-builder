@@ -3,14 +3,14 @@
 # Install native apps
 brew tap caskroom/versions
 
-# brew cask install atom
-brew cask install keepingyouawake
-brew cask install coconutbattery
-brew cask install dukto
-brew cask install easyfind
-brew cask install fliqlo
-brew cask install firefox
-brew cask install google-chrome
-brew cask install vlc
-brew cask install adapter
-brew cask install microsoft-office
+# brew install --cask atom
+brew install --cask keepingyouawake
+brew install --cask coconutbattery
+brew install --cask dukto
+brew install --cask easyfind
+brew install --cask fliqlo
+brew install --cask firefox
+brew install --cask google-chrome
+brew install --cask vlc
+brew install --cask adapter
+brew install --cask microsoft-office

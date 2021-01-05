@@ -3,25 +3,25 @@
 # Install native apps
 brew tap caskroom/versions
 
-# brew cask install atom
-brew cask install batchmod
-brew cask install keepingyouawake
-brew cask install cheatsheet
-brew cask install coconutbattery
-brew cask install cyberduck
-brew cask install daisydisk
-brew cask install dukto
-brew cask install easyfind
-brew cask install fliqlo
-brew cask install firefox
-brew cask install google-chrome
-brew cask install ip-in-menu-bar
-brew cask install iterm2
-brew cask install slack
-brew cask install adobe-creative-cloud
-brew cask install vlc
-brew cask install teamviewer-quicksupport
-brew cask install adapter
-brew cask install onedrive
-brew cask install microsoft-office
-brew cask install microsoft-remote-desktop-beta
+# brew install --cask atom
+brew install --cask batchmod
+brew install --cask keepingyouawake
+brew install --cask cheatsheet
+brew install --cask coconutbattery
+brew install --cask cyberduck
+brew install --cask daisydisk
+brew install --cask dukto
+brew install --cask easyfind
+brew install --cask fliqlo
+brew install --cask firefox
+brew install --cask google-chrome
+brew install --cask ip-in-menu-bar
+brew install --cask iterm2
+brew install --cask slack
+brew install --cask adobe-creative-cloud
+brew install --cask vlc
+brew install --cask teamviewer-quicksupport
+brew install --cask adapter
+brew install --cask onedrive
+brew install --cask microsoft-office
+brew install --cask microsoft-remote-desktop-beta
