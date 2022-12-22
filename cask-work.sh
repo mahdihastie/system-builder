@@ -4,7 +4,7 @@
 brew tap caskroom/versions
 
 brew install --cask 1password
-brew install --cask batchmod
+brew install --cask rectangle
 brew install --cask anydesk
 brew install --cask coconutbattery
 brew install --cask cyberduck
